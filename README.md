@@ -10,4 +10,4 @@ phone_number: participant's cellphone/phone number
 country: participant's country of origin
 institute: the current participating institution, can be the name of the company or the name of the university
 occupation: participant's current job
-register_time: the time participants register for the hackathon in seconds<p>
+register_time: the time participants register for the hackathon in seconds</p>
